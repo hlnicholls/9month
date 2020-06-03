@@ -1,3 +1,4 @@
-# Machine learning prioritisation of blood pressure associated genes post-GWAS
+# Model benchmarking notebook
 
-Model benchmarking notebook: compares 7 models' performances using all features
+Machine learning prioritisation of blood pressure associated genes post-GWAS
+- Notebook compares 7 models' performances using all features and nested cross-validation
